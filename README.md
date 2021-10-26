@@ -18,7 +18,7 @@ All of your variables need to be in a file named `.env`.
 The template needs some variables to work properly, you can see that in a file named `.env.example`
 Rename `.env.example` to `.env` and fill all the variables needed.
 
-# 🤔 How to use it?
+## 🤔 How to use it?
 Click on the button "Use this template" above the commit history.
 
 ## 📝 Contact
